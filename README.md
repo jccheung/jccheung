@@ -3,7 +3,7 @@
 
 <h3 align="center">🌱 Im Jeremy, a Data Scientist/ Machine Learning Developer based in Toronto 🗺️</h3>
 
-👀 I’m interested in deep learning models amd computer vision ✨ and all things machine learning
+👀 I’m interested in deep learning models and computer vision ✨ and all things machine learning
 
 Feel free to reach out to me for any opportunities
 
