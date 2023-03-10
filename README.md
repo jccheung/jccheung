@@ -1,8 +1,9 @@
-👋 Hi, I’m @jccheung
+<h1 align="center">👋 Hi, I’m @jccheung</h1>
+<p align="center"><i>Welcome to my github profile.</i></p>
 
-👀 I’m interested in machine learning, data science and blockchain technologies
+<h3 align="center">🌱 Im Jeremy, a Data Scientist/ Machine Learning Developer based in Toronto 🗺️</h3>
 
-🌱 I’m currently working as an Applied Machine Learning Developer working on machine learning models, computer vision blockchain, NFTs and building web applications
+👀 I’m interested in deep learning models amd computer vision ✨ and all things machine learning
 
 Feel free to reach out to me for any opportunities
 
