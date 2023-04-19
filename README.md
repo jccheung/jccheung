@@ -65,6 +65,21 @@
   
 ---
 
+### :computer: Projects & Portfolio :
+  
+:seedling: [LSTM Deep Learning Time Series Prediction on Renewable Energy](https://jccheung.github.io/#portfolio/)
+
+- Scrapped and collected meterological data and solar and wind farm power output to develop data set
+
+- Optimized deep learning output of 4 years worth of data with 85% accuracy of prediction in wind power data
+
+- [LSTM Renewable Energy Prediction](https://jccheung.github.io/#portfolio/)
+  
+<br> 
+
+ 
+---
+
 ### :fire: My Stats :
 
 <div id="tools" align="center">
