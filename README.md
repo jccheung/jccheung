@@ -9,6 +9,9 @@
 <br>
 
 <div id="header" align="center">
+  
+  [Download my Resume](https://drive.google.com/file/d/13ag9e4Vi5jnCPvJ0C0DF6galNHow6z8V/view?usp=sharing)
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/jeremycheung111/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
