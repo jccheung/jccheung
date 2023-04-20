@@ -85,7 +85,7 @@
 <div id="tools" align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jccheung)](https://git.io/streak-stats)
-  
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jccheung&show_icons=true&theme=transparent)
 </div>
 ---
 
