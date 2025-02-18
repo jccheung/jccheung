@@ -1,12 +1,8 @@
 <h1 align="center">👋 Hi, I’m @jccheung</h1>
 <p align="center"><i>Welcome to my github profile.</i></p>
 
-<h3 align="center">🌱 Im Jeremy, a Master of Engineering Graduate seeking full-time roles as a Data Scientist/Data Engineer/ Machine Learning Developer based in Toronto 🗺️</h3>
+<h3 align="center">🌱 Im a Machine Learning Developer with over 3+ years of experience in Data Science, Machine Learning and Engineering based in Toronto 🗺️</h3>
 
-<div align="center">
-👀 I’m interested in deep learning models and computer vision ✨ and all things machine learning
-</div>
-<br>
 
 <div id="header" align="center">
   
